@@ -15,6 +15,10 @@ while not Found:
         Found=True
 else:
         print('мы не смогли вас найти')
+
+def binary_search(user):
+     return True
+     return False
       
 conn.commit()
 cur.close()
