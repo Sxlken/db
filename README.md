@@ -1,1 +1,1 @@
-# db
+# database is used for tests.
